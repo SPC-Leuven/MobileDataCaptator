@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Magleeg\magweg\magwegapp\MobileDataCaptator\app\libs\dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1e6e1bb4f49d170380adfee2087e9e0010d6374">
+        <dex dex="D:\Magleeg\magweg\magwegapp\MobileDataCaptator\app\build\intermediates\pre-dexed\debug\dropbox-sync-sdk-android-e2284c9658e50770d7a151dea35637795a15ac76.jar" />
+    </item>
+    <item
+        jar="D:\Tools\Android_SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Magleeg\magweg\magwegapp\MobileDataCaptator\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-697336dd7058fa6502c4359a2b6c4dc2436271ea.jar" />
+    </item>
+
+</items>
